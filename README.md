@@ -130,7 +130,7 @@ Aplicação publicada via ECS Fargate + Load Balancer.
 
 ## ▶️ Vídeo do Projeto
 
-Youtube: 
+Youtube: https://youtu.be/ApSGURTDMLI
 
 Linkedin: https://www.linkedin.com/in/luiz-inhesta-341b4b311/
 
